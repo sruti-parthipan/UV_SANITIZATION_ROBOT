@@ -6,7 +6,7 @@ humans.
 The disinfection robot initiates the cleaning process upon activation, following a designated path until completion. If humans or animals enter the area during UV disinfection, the system automatically turns off the lights. Prior to interaction, the computer chip processes data from IR sensors, keeping the robot stationary if decontamination is unnecessary. After a brief pause, the sensors detect the absence of individuals, prompting the UV lights to resume for the next cleaning cycle or the option to power off.
 
 **COMPONENTS USED:**<BR>
-->ARDUINO UNO<BR>
+*ARDUINO UNO<BR>
 ->L298N Motor Driver Module<BR>
 ->ULTRASONIC SENSOR<BR>
 ->INFRARED SENSOR<BR>
