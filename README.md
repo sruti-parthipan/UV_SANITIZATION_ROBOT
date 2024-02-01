@@ -22,7 +22,7 @@ The disinfection robot initiates the cleaning process upon activation, following
 **PROJECT IMAGES:**
 
 ![image](https://github.com/sruti-parthipan/UV_SANITIZATION_ROBOT/assets/140324166/320d2e6f-3bb7-40db-8ea1-4c44bebea2e5)
-
+![image](https://github.com/sruti-parthipan/UV_SANITIZATION_ROBOT/assets/140324166/7aaea246-b45c-4ef2-ac06-8060fa88dd87)
 ![image](https://github.com/sruti-parthipan/UV_SANITIZATION_ROBOT/assets/140324166/6cdcf91c-17ba-4c44-8a69-404c0dc863f2)
 
 
