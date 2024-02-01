@@ -3,7 +3,7 @@
 The objective of using ultraviolet (UV) light is to clean or sterilize surfaces and spaces. Although UV-C is used because it kills germs, including
 bacteria and viruses, it is harmful to people as well. A UV Robot has been developed and put into use to perform disinfection without the involvement of humans.<BR>
 
-**WORKING:**
+**WORKING:**<BR>
 The disinfection robot initiates the cleaning process upon activation, following a designated path until completion. If humans or animals enter the area during UV disinfection, the system automatically turns off the lights. Prior to interaction, the computer chip processes data from IR sensors, keeping the robot stationary if decontamination is unnecessary. After a brief pause, the sensors detect the absence of individuals, prompting the UV lights to resume for the next cleaning cycle or the option to power off.
 
 **COMPONENTS USED:**<BR>
