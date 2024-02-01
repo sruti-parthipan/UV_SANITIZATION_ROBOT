@@ -16,7 +16,9 @@ The disinfection robot initiates the cleaning process upon activation, following
 **TOOLS USED:**
 ->ARDUINO IDE 
 ->ARDUINO UNO
-PROJECT IMAGES:
+
+
+**PROJECT IMAGES:**
 ![image](https://github.com/sruti-parthipan/UV_SANITIZATION_ROBOT/assets/140324166/320d2e6f-3bb7-40db-8ea1-4c44bebea2e5)
 ![image](https://github.com/sruti-parthipan/UV_SANITIZATION_ROBOT/assets/140324166/e6df006a-5ce6-4cc1-a511-59e6a07c8f22)
 
