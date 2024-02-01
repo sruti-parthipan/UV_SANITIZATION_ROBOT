@@ -7,16 +7,16 @@ The disinfection robot initiates the cleaning process upon activation, following
 
 **COMPONENTS USED:**<BR>
 * ARDUINO UNO<BR>
-->L298N Motor Driver Module<BR>
-->ULTRASONIC SENSOR<BR>
-->INFRARED SENSOR<BR>
-->DC Motor<BR>
-->UV LED<BR>
-->LITHIUM-ION BATTERY<BR>
+* L298N Motor Driver Module<BR>
+* ULTRASONIC SENSOR<BR>
+* INFRARED SENSOR<BR>
+* DC Motor<BR>
+* UV LED<BR>
+* LITHIUM-ION BATTERY<BR>
 
 **TOOLS USED:**<BR>
-->ARDUINO IDE <BR>
-->ARDUINO UNO<BR>
+* ARDUINO IDE <BR>
+* ARDUINO UNO<BR>
 
 
 **PROJECT IMAGES:**
